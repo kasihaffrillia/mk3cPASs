@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./utama.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jura:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Caveat Brush:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Cagliostro:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="utama">
+      <div class="utama-child"></div>
+      <div class="utama-item"></div>
+      <div class="utama-inner"></div>
+      <div class="telusuri-buku">Telusuri Buku</div>
+      <img
+        class="system-regular-42-search-2-21"
+        alt=""
+        src="./public/systemregular42search-2-2@2x.png"
+      />
+
+      <div class="beaulivre-parent">
+        <div class="beaulivre1">Beaulivre</div>
+        <img
+          class="untitled-1-2-icon1"
+          alt=""
+          src="./public/untitled1-2@2x.png"
+        />
+      </div>
+      <img
+        class="system-regular-8-account-2-icon1"
+        alt=""
+        src="./public/systemregular8account-2@2x.png"
+      />
+
+      <div class="utama-child1"></div>
+      <div class="utama-child2"></div>
+      <div class="masuk" id="masukText">Masuk</div>
+      <div class="daftar" id="daftarText">Daftar</div>
+      <div class="utama-child3"></div>
+      <div class="utama-child4"></div>
+      <div class="masuk1" id="masukText1">Masuk</div>
+      <div class="daftar1" id="daftarText1">Daftar</div>
+      <div class="hai-ini-beaulivre">Hai, ini Beaulivre</div>
+      <div class="anda-dapat-mencari-container">
+        <p class="anda-dapat-mencari">
+          Anda dapat mencari buku berdasarkan kategori untuk membacanya dan Anda
+          dapat menulis buku Anda sendiri, cobalah sekarang!
+        </p>
+      </div>
+      <img
+        class="desain-tanpa-judul-6-removeb-icon"
+        alt=""
+        src="./public/desain-tanpa-judul--6-removebgpreview-3@2x.png"
+      />
+    </div>
+
+    <script>
+      var masukText = document.getElementById("masukText");
+      if (masukText) {
+        masukText.addEventListener("click", function (e) {
+          window.location.href = "./masuk.html";
+        });
+      }
+      
+      var daftarText = document.getElementById("daftarText");
+      if (daftarText) {
+        daftarText.addEventListener("click", function (e) {
+          window.location.href = "./daftar.html";
+        });
+      }
+      
+      var masukText1 = document.getElementById("masukText1");
+      if (masukText1) {
+        masukText1.addEventListener("click", function (e) {
+          window.location.href = "./masuk.html";
+        });
+      }
+      
+      var daftarText1 = document.getElementById("daftarText1");
+      if (daftarText1) {
+        daftarText1.addEventListener("click", function (e) {
+          window.location.href = "./daftar.html";
+        });
+      }
+      </script>
+  </body>
+</html>

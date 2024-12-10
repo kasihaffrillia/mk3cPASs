@@ -1,0 +1,359 @@
+.my-book-child,
+.my-book-inner,
+.my-book-item {
+  position: absolute;
+  top: -1px;
+  left: -18px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-mistyrose-200);
+  width: 1567px;
+  height: 86px;
+}
+.my-book-inner,
+.my-book-item {
+  top: 86px;
+  left: -38px;
+  height: 63px;
+}
+.my-book-inner {
+  top: 27px;
+  left: 330px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-pink);
+  box-sizing: border-box;
+  width: 820px;
+  height: 41px;
+}
+.beaulivre,
+.telurusi-buku {
+  position: absolute;
+  top: 40px;
+  left: 402px;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 255px;
+  height: 28px;
+  mix-blend-mode: luminosity;
+}
+.beaulivre {
+  top: 30px;
+  left: 131px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-caveat-brush);
+  color: var(--color-rosybrown-100);
+  width: 169px;
+  height: 31px;
+}
+.system-regular-42-search-2-2 {
+  position: absolute;
+  top: 31px;
+  left: 358px;
+  width: 30px;
+  height: 33px;
+  object-fit: cover;
+}
+.system-regular-8-account-2-icon,
+.untitled-1-2-icon {
+  position: absolute;
+  top: -13px;
+  left: 23px;
+  width: 108px;
+  height: 118px;
+  object-fit: cover;
+}
+.system-regular-8-account-2-icon {
+  top: 17px;
+  left: 1419px;
+  width: 61px;
+  height: 61px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-rosybrown-100);
+  width: 165px;
+  height: 34px;
+  opacity: 0.5;
+}
+.auuiayy {
+  position: absolute;
+  top: 3px;
+  left: 47px;
+  display: inline-block;
+  width: 198px;
+  height: 28px;
+  mix-blend-mode: luminosity;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 34px;
+  left: 1241px;
+  width: 245px;
+  height: 34px;
+  font-size: var(--font-size-xl);
+}
+.cerita-saya {
+  position: absolute;
+  top: 225px;
+  left: 167px;
+  font-size: 40px;
+  font-family: var(--font-cagliostro);
+  color: var(--color-rosybrown-100);
+  display: inline-block;
+  width: 388px;
+  height: 50px;
+  mix-blend-mode: luminosity;
+}
+.rectangle-div {
+  top: 106px;
+  left: 486px;
+}
+.my-book-child1,
+.my-book-child2,
+.my-book-child3,
+.rectangle-div {
+  position: absolute;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-rosybrown-100);
+  width: 85px;
+  height: 25px;
+  opacity: 0.5;
+}
+.my-book-child1 {
+  top: 106px;
+  left: 766px;
+  cursor: pointer;
+}
+.my-book-child2,
+.my-book-child3 {
+  top: 105px;
+  left: 906px;
+}
+.my-book-child3 {
+  top: 106px;
+  left: 626px;
+  background-color: var(--color-indianred-300);
+}
+.category,
+.favorit,
+.home,
+.my-book1 {
+  position: absolute;
+  top: 109px;
+  left: 787px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  width: 86px;
+  height: 24px;
+  mix-blend-mode: luminosity;
+}
+.category,
+.home,
+.my-book1 {
+  top: 108px;
+  left: 642px;
+  width: 75px;
+  height: 21px;
+}
+.category,
+.home {
+  left: 918px;
+  width: 107px;
+  height: 24px;
+  cursor: pointer;
+}
+.home {
+  top: 109px;
+  left: 509px;
+  width: 84px;
+}
+.my-book-child4 {
+  position: absolute;
+  top: 329px;
+  left: 147px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-base);
+  background-color: var(--color-pink);
+  width: 1209px;
+  height: 313px;
+}
+.e371c4a71c3d4f8c4a61548-2-icon {
+  position: absolute;
+  top: 450px;
+  left: 230px;
+  border-radius: var(--br-sm);
+  width: 131px;
+  height: 156px;
+  object-fit: cover;
+}
+.bab-terpublikasi-2,
+.diperbarui-des-152023,
+.dipublikasikan,
+.div,
+.div1,
+.our-beloved-summer,
+.semua-cerita {
+  position: absolute;
+  left: 389px;
+  font-family: var(--font-cagliostro);
+  display: inline-block;
+  width: 388px;
+  height: 50px;
+  mix-blend-mode: luminosity;
+}
+.our-beloved-summer {
+  top: 455px;
+  font-size: 23px;
+  color: var(--color-indianred-100);
+}
+.bab-terpublikasi-2,
+.diperbarui-des-152023,
+.dipublikasikan,
+.div,
+.div1,
+.semua-cerita {
+  top: 498px;
+  color: var(--color-rosybrown-300);
+}
+.diperbarui-des-152023,
+.dipublikasikan,
+.div,
+.div1,
+.semua-cerita {
+  top: 523px;
+  height: 22px;
+}
+.dipublikasikan,
+.div,
+.div1,
+.semua-cerita {
+  top: 550px;
+  left: 507px;
+  width: 27px;
+  height: 21px;
+}
+.dipublikasikan,
+.div1,
+.semua-cerita {
+  left: 428px;
+}
+.dipublikasikan,
+.semua-cerita {
+  top: 352px;
+  left: 255px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-indianred-100);
+  width: 388px;
+  height: 50px;
+}
+.semua-cerita {
+  left: 501px;
+}
+.line-div,
+.my-book-child5,
+.my-book-child6 {
+  position: absolute;
+  top: 522px;
+  left: 179px;
+  border-top: 2px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 27px;
+  height: 0;
+}
+.my-book-child5,
+.my-book-child6 {
+  top: 529px;
+}
+.my-book-child6 {
+  top: 536px;
+}
+.line-icon,
+.my-book-child7 {
+  position: absolute;
+  height: 1px;
+}
+.my-book-child7 {
+  top: 400.5px;
+  left: 158.5px;
+  border-top: 1px solid #b89a9a;
+  box-sizing: border-box;
+  width: 1209px;
+}
+.line-icon {
+  top: 399px;
+  left: 253px;
+  width: 193px;
+  object-fit: contain;
+}
+.my-book-child8 {
+  position: absolute;
+  top: 442px;
+  left: 1055px;
+  border-radius: 6px;
+  background-color: var(--color-rosybrown-200);
+  width: 232px;
+  height: 33px;
+}
+.div2,
+.lanjut-menulis {
+  position: absolute;
+  display: inline-block;
+  mix-blend-mode: luminosity;
+}
+.lanjut-menulis {
+  top: 446px;
+  left: 1076px;
+  font-size: var(--font-size-xl);
+  color: #271a1c;
+  width: 145px;
+  height: 21px;
+}
+.div2 {
+  top: 450px;
+  left: 1280px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-mistyrose-200);
+  width: 15px;
+  height: 35px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.my-book-child9 {
+  position: absolute;
+  top: 441.5px;
+  left: 1232.5px;
+  border-right: 1px solid var(--color-mistyrose-200);
+  box-sizing: border-box;
+  width: 1px;
+  height: 34px;
+}
+.icons8-eyes-32-1,
+.icons8-star-30-1 {
+  position: absolute;
+  top: 550px;
+  left: 480px;
+  width: 21px;
+  height: 21px;
+  object-fit: cover;
+}
+.icons8-eyes-32-1 {
+  top: 547px;
+  left: 390px;
+  width: 28px;
+  height: 28px;
+}
+.my-book {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-mistyrose-100);
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-jura);
+}

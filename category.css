@@ -1,0 +1,225 @@
+.category-child,
+.category-inner,
+.category-item {
+  position: absolute;
+  top: -1px;
+  left: -18px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-mistyrose-200);
+  width: 1567px;
+  height: 86px;
+}
+.category-inner,
+.category-item {
+  top: 86px;
+  left: -38px;
+  height: 63px;
+}
+.category-inner {
+  top: 27px;
+  left: 330px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-pink);
+  box-sizing: border-box;
+  width: 820px;
+  height: 41px;
+}
+.beaulivre5,
+.telurusi-buku3 {
+  position: absolute;
+  top: 40px;
+  left: 402px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 255px;
+  height: 28px;
+  mix-blend-mode: luminosity;
+}
+.beaulivre5 {
+  top: 30px;
+  left: 131px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-caveat-brush);
+  color: var(--color-rosybrown-100);
+  width: 169px;
+  height: 31px;
+}
+.system-regular-42-search-2-24 {
+  position: absolute;
+  top: 31px;
+  left: 358px;
+  width: 30px;
+  height: 33px;
+  object-fit: cover;
+}
+.system-regular-8-account-2-icon5,
+.untitled-1-2-icon5 {
+  position: absolute;
+  top: -13px;
+  left: 23px;
+  width: 108px;
+  height: 118px;
+  object-fit: cover;
+}
+.system-regular-8-account-2-icon5 {
+  top: 17px;
+  left: 1419px;
+  width: 61px;
+  height: 61px;
+}
+.group-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-rosybrown-100);
+  width: 165px;
+  height: 34px;
+  opacity: 0.5;
+}
+.auuiayy3 {
+  position: absolute;
+  top: 3px;
+  left: 47px;
+  display: inline-block;
+  width: 198px;
+  height: 28px;
+  mix-blend-mode: luminosity;
+}
+.group-div {
+  position: absolute;
+  top: 34px;
+  left: 1241px;
+  width: 245px;
+  height: 34px;
+  font-size: var(--font-size-xl);
+}
+.category-child1,
+.category-child2,
+.category-child3,
+.category-child4 {
+  position: absolute;
+  top: 105px;
+  left: 486px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-rosybrown-100);
+  width: 85px;
+  height: 25px;
+  opacity: 0.5;
+}
+.category-child2,
+.category-child3,
+.category-child4 {
+  left: 766px;
+}
+.category-child3,
+.category-child4 {
+  top: 104px;
+  left: 906px;
+  background-color: var(--color-indianred-100);
+}
+.category-child4 {
+  top: 105px;
+  left: 626px;
+  background-color: var(--color-rosybrown-100);
+}
+.category4,
+.favorit4,
+.home4,
+.my-book4 {
+  position: absolute;
+  display: inline-block;
+  mix-blend-mode: luminosity;
+}
+.favorit4 {
+  top: 108px;
+  left: 787px;
+  width: 86px;
+  height: 24px;
+  cursor: pointer;
+}
+.category4,
+.home4,
+.my-book4 {
+  top: 107px;
+}
+.my-book4 {
+  left: 642px;
+  width: 75px;
+  height: 21px;
+  cursor: pointer;
+}
+.category4,
+.home4 {
+  left: 918px;
+  width: 107px;
+  height: 24px;
+}
+.home4 {
+  top: 108px;
+  left: 509px;
+  width: 84px;
+  cursor: pointer;
+}
+.category-child5 {
+  position: absolute;
+  top: 188px;
+  left: 705px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-base);
+  background-color: var(--color-pink);
+  width: 507px;
+  height: 476px;
+}
+.blank-line {
+  margin-block-start: 0;
+  margin-block-end: 5px;
+}
+.acak-cerita-pendek-container {
+  position: absolute;
+  top: 150px;
+  left: 768px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-cagliostro);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  width: 388px;
+  height: 468px;
+  mix-blend-mode: luminosity;
+}
+.spiritual {
+  margin: 0;
+}
+.humor-klasik-laga-container {
+  position: absolute;
+  top: 224px;
+  left: 999px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-cagliostro);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  width: 388px;
+  height: 468px;
+  mix-blend-mode: luminosity;
+}
+.polygon-icon {
+  position: absolute;
+  top: 138px;
+  left: 914px;
+  width: 79px;
+  height: 74px;
+}
+.category3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-mistyrose-100);
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-jura);
+}

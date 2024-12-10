@@ -1,0 +1,194 @@
+.utama-child,
+.utama-inner,
+.utama-item {
+  position: absolute;
+  top: -1px;
+  left: -18px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-mistyrose-200);
+  width: 1567px;
+  height: 86px;
+}
+.utama-inner,
+.utama-item {
+  top: 86px;
+  left: -38px;
+  height: 63px;
+}
+.utama-inner {
+  top: 27px;
+  left: 330px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-pink);
+  box-sizing: border-box;
+  width: 820px;
+  height: 41px;
+}
+.telusuri-buku {
+  position: absolute;
+  top: 40px;
+  left: 402px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 255px;
+  height: 28px;
+  mix-blend-mode: luminosity;
+}
+.system-regular-42-search-2-21 {
+  position: absolute;
+  top: 31px;
+  left: 358px;
+  width: 30px;
+  height: 33px;
+  object-fit: cover;
+}
+.beaulivre1 {
+  position: absolute;
+  top: 43px;
+  left: 108px;
+  display: inline-block;
+  width: 169px;
+  height: 31px;
+  mix-blend-mode: luminosity;
+}
+.untitled-1-2-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 108px;
+  height: 118px;
+  object-fit: cover;
+}
+.beaulivre-parent {
+  position: absolute;
+  top: -13px;
+  left: 23px;
+  width: 277px;
+  height: 118px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-rosybrown-100);
+  font-family: var(--font-caveat-brush);
+}
+.system-regular-8-account-2-icon1 {
+  position: absolute;
+  top: 17px;
+  left: 1419px;
+  width: 61px;
+  height: 61px;
+  object-fit: cover;
+}
+.utama-child1,
+.utama-child2 {
+  position: absolute;
+  top: 34px;
+  left: 1206px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-rosybrown-100);
+  width: 96px;
+  height: 34px;
+  opacity: 0.5;
+}
+.utama-child2 {
+  left: 1310px;
+}
+.daftar,
+.masuk {
+  position: absolute;
+  top: 38px;
+  left: 1224px;
+  display: inline-block;
+  width: 66px;
+  height: 28px;
+  mix-blend-mode: luminosity;
+  cursor: pointer;
+}
+.daftar {
+  left: 1331px;
+  width: 198px;
+}
+.utama-child3,
+.utama-child4 {
+  position: absolute;
+  top: 643px;
+  left: 679px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-indianred-100);
+  width: 251px;
+  height: 51px;
+  opacity: 0.5;
+}
+.utama-child4 {
+  top: 641px;
+  left: 965px;
+  width: 253px;
+  height: 50px;
+}
+.masuk1 {
+  top: 647px;
+  left: 748px;
+  font-size: var(--font-size-13xl);
+  width: 253px;
+  height: 40px;
+  cursor: pointer;
+}
+.daftar1,
+.hai-ini-beaulivre,
+.masuk1 {
+  position: absolute;
+  display: inline-block;
+  mix-blend-mode: luminosity;
+}
+.daftar1 {
+  top: 644px;
+  left: 1047px;
+  font-size: var(--font-size-13xl);
+  width: 518px;
+  height: 40px;
+  cursor: pointer;
+}
+.hai-ini-beaulivre {
+  top: 385px;
+  left: 666px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-cagliostro);
+  color: var(--color-rosybrown-100);
+  width: 1107px;
+  height: 200px;
+}
+.anda-dapat-mencari {
+  margin: 0;
+}
+.anda-dapat-mencari-container {
+  position: absolute;
+  top: 480px;
+  left: 679px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-cagliostro);
+  color: var(--color-rosybrown-100);
+  display: inline-block;
+  width: 606px;
+  height: 174px;
+  mix-blend-mode: luminosity;
+}
+.desain-tanpa-judul-6-removeb-icon {
+  position: absolute;
+  top: 332px;
+  left: 184px;
+  width: 445px;
+  height: 389px;
+  object-fit: cover;
+}
+.utama {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-mistyrose-100);
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-jura);
+}
